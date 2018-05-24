@@ -1,9 +1,7 @@
-.text-primary {
+ .text-primary {
     color: #e6a756 !important;
   }
-   
- .bg-primary {
-    background-color: #e6a756 !important;
-  }
   
-   
+  .bg-primary {
+    background-color: #e6a756 !important;
+  }  
